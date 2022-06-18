@@ -1,0 +1,89 @@
+body
+{
+	min-height: 100vh;
+	background: url(/C:/Users/Display/Desktop/game/img/zero.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+header table{
+	width: 100%;	
+}
+
+header caption
+{
+	background-color: #131313 ;
+	font: 12pt/14pt arial black;
+	color: white;
+	text-align: left;
+}
+
+header h1{
+	text-align: center;
+	font-size: 10px;
+	font-weight: 10;
+	color: white;
+}
+
+nav{
+	width: 100%;
+	height: 45px;
+	background-color: black;
+}
+
+.contenido3{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	font-size: 7px;
+	font-weight: 7;
+	color: white;
+	margin: 3px;
+	padding: 3px;
+}
+
+.contenido3 table{
+	width: 42%;
+	min-height: 100vh;
+	background: black;
+}
+
+.contenido3 table caption {
+	text-align: center
+}
+
+.contenido3 table caption h1{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.contenido3 table h3{
+	text-align: center;
+	color: gray;
+	font-size: 8px;
+	font-weight: 8;
+}
+
+.contenido3 table  p{
+	text-align: left;
+	font-size: 7px;
+	font-weight: 7;
+	color: white;
+}
+
+.contenido3 h2{
+	text-align: left;
+	font-size: 9px;
+	font-weight: 9;
+}
+
+.contenido3 table li{
+	list-style-type: square;
+	text-align: left;
+}
+.imagen img{
+	width: 187px;
+	height: 100px;	
+	display: flex;
+	justify-content: flex-end;
+}

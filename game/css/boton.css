@@ -1,0 +1,31 @@
+.contenedor-botones{
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	gap: 40px;
+}
+.boton{
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 80%;
+	height: 10px;
+	background: #141414;
+	color: #fff;
+	font-size: 'Roboto', sans-serif;
+	font-size: 5px;
+	font-weight: 5;
+	border: none;
+	cursor: pointer;
+	text-transform: uppercase;
+	transition: .3s ease all;
+	border-radius:	5px;
+	position: relative;
+	overflow: hidden;
+}
+.boton span{
+	position: relative;
+	z-index: 2;
+	transition: .3s ease all;
+
+}

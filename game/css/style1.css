@@ -1,0 +1,99 @@
+body
+{
+	min-height: 100vh;
+	background: url(/C:/Users/Display/Desktop/game/img/zero.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+header table{
+	width: 100%;	
+}
+
+header caption
+{
+	background-color: #131313 ;
+	font: 12pt/14pt arial black;
+	color: white;
+	text-align: left;
+}
+
+header h1{
+	text-align: center;
+	font-size: 10px;
+	font-weight: 10;
+	color: white;
+}
+
+nav{
+	width: 100%;
+	height: 45px;
+	background-color: black;
+}
+
+.contenido{
+	color: white;
+	display: flex;
+	justify-content: center;
+	margin: 3px;
+	padding: 3px;
+}
+
+.contenido table{
+	width: 100%;
+	min-height: 80vh;
+	background: url(/C:/Users/Display/Desktop/game/img/horizon1.jpg) no-repeat top ;
+	background-size: cover;
+}
+
+.contenido table td{
+	text-align: left;
+	font-size: 5px;
+	font-weight: 5;
+}
+
+.contenido table td h1{
+	text-align: left;
+	font-size: 5px;
+	font-weight: bold;
+}
+
+.contenido table td p{
+	text-align: left;
+	font-size: 10px;
+	font-weight: 10;
+}
+
+.contenido1{
+	display: flex;
+	justify-content: center;
+	color: #272F2F ;
+	margin: 3px;
+	padding: 3px;
+}
+
+.contenido1 table{
+	width: 100%;
+	min-height: 80vh;
+	background: url(/C:/Users/Display/Desktop/game/img/dawnx.jpg) no-repeat top  ;
+	background-size: cover;
+}
+
+.contenido1 table td{
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.contenido1 table td h1{
+	text-align: left;
+	color: black;
+	font-size: 7px;
+	font-weight: bold;	
+}
+
+.contenido1 table td p{
+	text-align: left;
+	font-size: 7px;
+	font-weight: 7;
+}
+
+
